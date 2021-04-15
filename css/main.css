@@ -1,0 +1,31 @@
+/* Inserta tu codigo aqui */
+*{
+  outline: 1px dotted blue;
+}
+div li{
+  text-decoration: none;
+  margin: 0 -95px 0 110px
+}
+
+#texto-semilla p{
+  font-size: 15px;
+  width: 600px;
+  margin: auto;
+}
+
+#mision-vision p{
+  font-size: 14px;
+}
+
+#metodologia p{
+  font-size: 15px;
+}
+
+#servicios p{
+  font-size: 14px;
+  margin: auto;
+}
+
+#servicios img{
+  width: 120px;
+}
