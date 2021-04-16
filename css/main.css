@@ -1,15 +1,20 @@
 /* Inserta tu codigo aqui */
-*{
+/* *{
   outline: 1px dotted blue;
+}  */
+
+#comunidad{
+  height: 100px;
 }
-div li{
-  text-decoration: none;
-  margin: 0 -95px 0 110px
+
+ul a{
+  font-size: 18px;
+  font-weight: bold;
 }
 
 #texto-semilla p{
   font-size: 15px;
-  width: 600px;
+  width: 700px;
   margin: auto;
 }
 
@@ -21,6 +26,7 @@ div li{
   font-size: 15px;
 }
 
+
 #servicios p{
   font-size: 14px;
   margin: auto;
@@ -28,4 +34,41 @@ div li{
 
 #servicios img{
   width: 120px;
+}
+
+#equipo h5{
+  font-size: 16px;
+}
+
+#equipo p{
+  font-size: 15px;
+}
+
+#equipo a img{
+  width: 40px;
+}
+
+#blog h5{
+  font-size: 15px;
+}
+
+#blog p{
+  font-size: 15px;
+}
+
+.slider{
+  padding: 150px 0px 0px 15px;
+  width: 60px;
+}
+
+.foto-blog{
+  height: 200px;
+}
+
+#redes img{
+  height: 40px;
+}
+
+#redes .cuadro-redes{
+  height: 250px;
 }
